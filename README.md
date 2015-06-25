@@ -1,1 +1,1 @@
-# angular-u-2015-typescript-workshop
+# AngularU 2015 - TypeScript Workshop Notes

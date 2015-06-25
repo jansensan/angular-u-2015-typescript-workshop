@@ -1,0 +1,12 @@
+### IGNORE FILES FROM GIT ###
+
+### MAC OSX FILES ###
+*._*
+*.DS_STORE
+
+### NODE AND GULP FILES ###
+node_modules
+bower_components
+
+### PROJECT FILES ###
+dist
