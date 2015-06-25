@@ -8,7 +8,7 @@ function buildTS() {
     .src('src/**/*.ts')
     .pipe(ts({
         noImplicitAny: true,
-        target: 'ES6',
+        target: 'ES5',
         out: 'typescript-workshop.js'
       }));
   return tsResult.js.pipe(gulp.dest('dist'));
