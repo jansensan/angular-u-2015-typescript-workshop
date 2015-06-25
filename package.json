@@ -1,0 +1,9 @@
+{
+  "name": "typescript-workshop",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.7.7"
+  }
+}
